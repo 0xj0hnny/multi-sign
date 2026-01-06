@@ -54,10 +54,14 @@ A decentralized document signing application built with Next.js, Keycloak authen
 - **Session Persistence**: Documents are stored in browser localStorage - clear cache if needed
 
 ---
+
 ## POC Demo Videos
-Text: https://drive.google.com/file/d/1ayh-_l0Dj5ZWVu7Twd7pe96zzAhkoK9P/view?usp=sharing
-JSON: https://drive.google.com/file/d/1bnOvSwQEtl3dQ6DVqxxnYUXbV15tsj6D/view?usp=sharing
-PDF: https://drive.google.com/file/d/1iExYR8zL_9v06rZ5zi8OWBr_28tcvkEz/view?usp=sharing
+
+- **Text Document**: [View Demo](https://drive.google.com/file/d/1ayh-_l0Dj5ZWVu7Twd7pe96zzAhkoK9P/view?usp=sharing)
+
+- **JSON Document**: [View Demo](https://drive.google.com/file/d/1bnOvSwQEtl3dQ6DVqxxnYUXbV15tsj6D/view?usp=sharing)
+
+- **PDF Document**: [View Demo](https://drive.google.com/file/d/1iExYR8zL_9v06rZ5zi8OWBr_28tcvkEz/view?usp=sharing)
 
 ---
 
